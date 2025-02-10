@@ -1,7 +1,5 @@
 ![image](https://github.com/user-attachments/assets/cc7fb5d6-83e5-42cb-8f88-c1c1da20a9ca)
 
-Here’s a refined README for your robotic arm simulation project using ML-Agents and Q-learning:
-
 ---
 
 # 🤖 Robotic Arm Simulation with Q-Learning in Unity
@@ -99,7 +97,3 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to submit **pull requests** or open **issues**.
-
----
-
-This README is now more structured and polished. Let me know if you need any modifications! 🚀
