@@ -15,6 +15,8 @@ This project is a **robotic arm simulation** built in **Unity**, utilizing **ML-
 - 🔧 **Customizable Reward System** – Modify rewards to fine-tune training behavior.
 
 ## 🔧 Requirements
+![Ekran görüntüsü 2024-05-11 230955](https://github.com/user-attachments/assets/0d54339e-a407-461f-9a5b-d8554554f055)
+![Ekran görüntüsü 2024-05-11 181659](https://github.com/user-attachments/assets/eca3bdd8-40a5-4412-a653-f0e0e440cab5)
 
 Ensure the following dependencies are installed before running the project:
 
@@ -89,6 +91,16 @@ Follow these steps to set up and run the project:
    ```sh
    pip install protobuf==3.20
    ```
+
+**tensorboard 2.16.2 usage**
+
+In a separate terminal;
+
+tensorboard --logdir results
+
+we type localhost:6006 in the browser we will use and connect to the local host
+
+![image](https://github.com/user-attachments/assets/60b3334d-a750-42e2-a575-5a864f670542)
 
 ## 📜 License
 
